@@ -1,7 +1,0 @@
-c:\temp\pipeline\SampleConsoleApp\SampleConsoleApp\bin\Debug\SampleConsoleApp.exe.config
-c:\temp\pipeline\SampleConsoleApp\SampleConsoleApp\bin\Debug\SampleConsoleApp.exe
-c:\temp\pipeline\SampleConsoleApp\SampleConsoleApp\bin\Debug\SampleConsoleApp.pdb
-c:\temp\pipeline\SampleConsoleApp\SampleConsoleApp\obj\Debug\SampleConsoleApp.csprojAssemblyReference.cache
-c:\temp\pipeline\SampleConsoleApp\SampleConsoleApp\obj\Debug\SampleConsoleApp.csproj.CoreCompileInputs.cache
-c:\temp\pipeline\SampleConsoleApp\SampleConsoleApp\obj\Debug\SampleConsoleApp.exe
-c:\temp\pipeline\SampleConsoleApp\SampleConsoleApp\obj\Debug\SampleConsoleApp.pdb
